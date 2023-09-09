@@ -20,7 +20,11 @@ body {
   border: solid 1px;
   cursor: pointer;
 }
-
+.dropdown {
+  color: white;
+  border: solid 1px;
+  cursor: pointer;
+}
 /*sezione carosello*/
 @media (max-width: 767px) {
   .carousel-inner .row {
