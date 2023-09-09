@@ -8,6 +8,19 @@ body {
 .bg-dark{
     background-color: black !important;
 }
+
+.left,
+.grid {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border: solid 1px;
+  cursor: pointer;
+}
+
 /*sezione carosello*/
 @media (max-width: 767px) {
   .carousel-inner .row {
